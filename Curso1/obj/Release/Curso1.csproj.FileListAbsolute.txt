@@ -1,0 +1,16 @@
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\bin\Release\Curso1.exe.config
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\bin\Release\Curso1.exe
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\bin\Release\Curso1.pdb
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.csproj.AssemblyReference.cache
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_Demostracao.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_HelloWord.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_Mascara.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_Principal.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_ValidaCPF.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_ValidaCPF2.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Frm_ValidaSenha.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.Properties.Resources.resources
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.csproj.GenerateResource.cache
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.csproj.CoreCompileInputs.cache
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.exe
+C:\Projects\#\Windowns Form\Curso\Curso1\Curso1\obj\Release\Curso1.pdb
