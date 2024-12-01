@@ -1,6 +1,6 @@
-# Curso sobre C#
+<h1 alig="center"> Cuso de C# </h1>
 
-*Teste de envio Git*
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-@Jander Gadel
